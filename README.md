@@ -14,6 +14,7 @@ This project covers some of the interesting topics of web development, which are
 - Object in array ( specifically, using this, I grab the current tab's URL)
 
   **N.B.**_ In this Chrome extension project, files in the extension folder are all packaged together.
+  
   project/
   ├─ index.html
   ├─ index.js
