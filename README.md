@@ -16,10 +16,10 @@ This project covers some of the interesting topics of web development, which are
   **N.B.**_ In this Chrome extension project, files in the extension folder are all packaged together.
   
   project/
-  ├─ index.html
-  ├─ index.js
-  ├─ index.css
-  ├─ manifest.json
+  |─ index.html
+  |─ index.js
+  |─ index.css
+  |─ manifest.json
   
 - When the extension runs, Chrome can directly access local files in the extension folder using relative paths, because the browser treats them as part of the extension bundle.
 
